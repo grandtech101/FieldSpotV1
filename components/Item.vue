@@ -1,6 +1,6 @@
 <template>
   <div class="border rounded-md border-gray-500 text-center pb-5 mb-5">
-    <img :src="image" class="object-fill h-100 w-150" alt="" />
+    <img :src="image" class="object-fill h-100 w-100" alt="" />
     <h3 class="font-oswald font-medium text-2xl uppercase text-gray-500 mt-5 mb-2 ml-5">
       {{ title }}
     </h3>
