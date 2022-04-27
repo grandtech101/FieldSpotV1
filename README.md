@@ -1,5 +1,3 @@
-# ztm-template
-
 ## Build Setup
 
 ```bash
