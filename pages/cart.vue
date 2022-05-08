@@ -1,16 +1,16 @@
 <template>
   <div>
-    <div class="bg-[url('/menu-page.jpg')]">
-      <div id="menu" class="grid grid-cols-2 py-5">
-        <div id="menu-left">
+    <div class="bg-[url('/features-page.jpg')]">
+      <div id="Features" class="grid grid-cols-2 py-5">
+        <div id="features-left">
           <img src="logo.png" class="w-[150px]" alt="" />
         </div>
 
-        <div id="menu-right">
+        <div id="features-right">
           <ul class="grid grid-cols-5 text-2xl font-oswald text-white pt-5">
-            <li>About Us</li>
-            <NuxtLink to="/menu">Our Menu</NuxtLink>
-            <li>Locations</li>
+            <li>Home</li>
+            <NuxtLink to="/menu">Features</NuxtLink>
+            <li>Solutions</li>
             <li>Contacts</li>
             <NuxtLink to="/cart">Cart</NuxtLink>
           </ul>

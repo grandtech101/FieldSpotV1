@@ -1,47 +1,40 @@
 {
-  "burgers": [
+  "FieldSpot": [
     {
-      "name": "Crispy Chicken",
-      "image":"crispy-chicken.jpg",
-      "description": "Chicken breast, chilli sauce, tomatoes, pickles, coleslaw",
-      "price": 11.99
+      "name": "Admin",
+      "image":"admin-1.jpg",
+      "description": "Document Control,Annual Schedule,Meetings,Reports,Letter templates",
+      "price": 20.00
     },
     {
-      "name": "Ultimate Bacon",
-      "image":"ultimate-bacon.jpg",
-      "description": "House beef patty, cheddar cheese, smokey bacon, onion, mustard",
-      "price": 14.99
+      "name": "Human Resource",
+      "image":"hr-1.png",
+      "description": "Talent Management,Surveys,HR templates,regulations",
+      "price": 20.00
     },
     {
-      "name": "Baa-Baa Black Sheep",
-      "image":"baa-baa.jpg",
-      "description": "Bacon, lettuce, tomato, onion, mayo, pickles, coleslaw",
-      "price": 15.75
+      "name": "Finance",
+      "image":"finance-1.jpg",
+      "description": "Financial Control,expenses and costing management",
+      "price": 37.99
     },
     {
-      "name": "Double Burger",
-      "image":"double-burger.jpg",
-      "description": "2 beef patties, cheddar cheese, mustard, pickles, tomatoes",
-      "price": 15.35
+      "name": "Sales",
+      "image":"sales-3.png",
+      "description": "Sales Converter,Sales tracker,Esales-script, sales kit",
+      "price": 37.99
     },
     {
-      "name": "Messy Beauty",
-      "image":"double-burger.jpg",
-      "description": "Beef patty topped with honey mustard and a sunny side up egg.",
-      "price": 23.00
+      "name": "Marketing",
+      "image":"marketing-1.png",
+      "description": "Integrating digital marketing tools, marketing strategy",
+      "price": 30.99
     },
     {
-      "name": "Rosy Business",
-      "image":"double-burger.jpg",
-      "description": "Beef patty topped with a hash brown covered with rose Syrup.",
-      "price": 21.00
-    },
-    {
-      "name": "Old Fashion",
-      "image":"double-burger.jpg",
-      "description": "Classic cheeseburger with a grilled beef / chicken patty.",
-      "price": 18.00
+      "name": "Operations",
+      "image":"logistic.png",
+      "description": "logistics,warehouse management,strategic planning",
+      "price": 37.99
     }
   ]
 }
-

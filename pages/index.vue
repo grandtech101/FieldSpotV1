@@ -7,11 +7,10 @@
           </div>
 
         <div id="menu-right">
-          <ul class="grid md:grid-cols-5 text-2xl font-oswald text-white pt-5 gap-2">
+          <ul class="grid md:grid-cols-4 text-2xl font-oswald text-white pt-5 gap-2">
             <li>Home</li>
             <li>Features</li>
             <li>Solutions</li>
-            <li>Pricing</li>
             <li>Contact</li>
           </ul>
         </div>
